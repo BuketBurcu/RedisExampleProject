@@ -1,0 +1,7 @@
+C:\Users\BUKET\source\repos\RedisExample\RedisExample\obj\Release\net8.0\RedisExample.csproj.AssemblyReference.cache
+C:\Users\BUKET\source\repos\RedisExample\RedisExample\obj\Release\net8.0\RedisExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BUKET\source\repos\RedisExample\RedisExample\obj\Release\net8.0\RedisExample.AssemblyInfoInputs.cache
+C:\Users\BUKET\source\repos\RedisExample\RedisExample\obj\Release\net8.0\RedisExample.AssemblyInfo.cs
+C:\Users\BUKET\source\repos\RedisExample\RedisExample\obj\Release\net8.0\RedisExample.csproj.CoreCompileInputs.cache
+C:\Users\BUKET\source\repos\RedisExample\RedisExample\obj\Release\net8.0\RedisExample.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\BUKET\source\repos\RedisExample\RedisExample\obj\Release\net8.0\RedisExample.MvcApplicationPartsAssemblyInfo.cache

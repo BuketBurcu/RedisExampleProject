@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BUKET\\source\\repos\\RedisExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53A6B079-5F08-473D-901E-54119D30E9F8}|RedisExample.Cache\\RedisExample.Cache.csproj|c:\\users\\buket\\source\\repos\\redisexample\\redisexample.cache\\redisconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A6B079-5F08-473D-901E-54119D30E9F8}|RedisExample.Cache\\RedisExample.Cache.csproj|solutionrelative:redisexample.cache\\redisconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3997E3AD-C6EA-40D8-8F3C-1B8E47CE465D}|RedisExample\\RedisExample.csproj|c:\\users\\buket\\source\\repos\\redisexample\\redisexample\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3997E3AD-C6EA-40D8-8F3C-1B8E47CE465D}|RedisExample\\RedisExample.csproj|solutionrelative:redisexample\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A6B079-5F08-473D-901E-54119D30E9F8}|RedisExample.Cache\\RedisExample.Cache.csproj|c:\\users\\buket\\source\\repos\\redisexample\\redisexample.cache\\redisindexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A6B079-5F08-473D-901E-54119D30E9F8}|RedisExample.Cache\\RedisExample.Cache.csproj|solutionrelative:redisexample.cache\\redisindexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3997E3AD-C6EA-40D8-8F3C-1B8E47CE465D}|RedisExample\\RedisExample.csproj|c:\\users\\buket\\source\\repos\\redisexample\\redisexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3997E3AD-C6EA-40D8-8F3C-1B8E47CE465D}|RedisExample\\RedisExample.csproj|solutionrelative:redisexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A6B079-5F08-473D-901E-54119D30E9F8}|RedisExample.Cache\\RedisExample.Cache.csproj|c:\\users\\buket\\source\\repos\\redisexample\\redisexample.cache\\redisexample.cache.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{53A6B079-5F08-473D-901E-54119D30E9F8}|RedisExample.Cache\\RedisExample.Cache.csproj|solutionrelative:redisexample.cache\\redisexample.cache.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3997E3AD-C6EA-40D8-8F3C-1B8E47CE465D}|RedisExample\\RedisExample.csproj|c:\\users\\buket\\source\\repos\\redisexample\\redisexample\\redisexample.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3997E3AD-C6EA-40D8-8F3C-1B8E47CE465D}|RedisExample\\RedisExample.csproj|solutionrelative:redisexample\\redisexample.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3997E3AD-C6EA-40D8-8F3C-1B8E47CE465D}|RedisExample\\RedisExample.csproj|c:\\users\\buket\\source\\repos\\redisexample\\redisexample\\redisexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3997E3AD-C6EA-40D8-8F3C-1B8E47CE465D}|RedisExample\\RedisExample.csproj|solutionrelative:redisexample\\redisexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3997E3AD-C6EA-40D8-8F3C-1B8E47CE465D}|RedisExample\\RedisExample.csproj|c:\\users\\buket\\source\\repos\\redisexample\\redisexample\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3997E3AD-C6EA-40D8-8F3C-1B8E47CE465D}|RedisExample\\RedisExample.csproj|solutionrelative:redisexample\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RedisExample",
+              "DocumentMoniker": "C:\\Users\\BUKET\\source\\repos\\RedisExample\\RedisExample\\RedisExample.csproj",
+              "RelativeDocumentMoniker": "RedisExample\\RedisExample.csproj",
+              "ToolTip": "C:\\Users\\BUKET\\source\\repos\\RedisExample\\RedisExample\\RedisExample.csproj",
+              "RelativeToolTip": "RedisExample\\RedisExample.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-08T16:19:37.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RedisExample",
+              "DocumentMoniker": "C:\\Users\\BUKET\\source\\repos\\RedisExample\\RedisExample\\RedisExample.csproj",
+              "RelativeDocumentMoniker": "RedisExample\\RedisExample.csproj",
+              "ToolTip": "C:\\Users\\BUKET\\source\\repos\\RedisExample\\RedisExample\\RedisExample.csproj",
+              "RelativeToolTip": "RedisExample\\RedisExample.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-08T16:19:40.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RedisExample.Cache",
+              "DocumentMoniker": "C:\\Users\\BUKET\\source\\repos\\RedisExample\\RedisExample.Cache\\RedisExample.Cache.csproj",
+              "RelativeDocumentMoniker": "RedisExample.Cache\\RedisExample.Cache.csproj",
+              "ToolTip": "C:\\Users\\BUKET\\source\\repos\\RedisExample\\RedisExample.Cache\\RedisExample.Cache.csproj",
+              "RelativeToolTip": "RedisExample.Cache\\RedisExample.Cache.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-08T16:19:24.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\BUKET\\source\\repos\\RedisExample\\RedisExample\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "RedisExample\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\BUKET\\source\\repos\\RedisExample\\RedisExample\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "RedisExample\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:34:44.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RedisIndexer.cs",
+              "DocumentMoniker": "C:\\Users\\BUKET\\source\\repos\\RedisExample\\RedisExample.Cache\\RedisIndexer.cs",
+              "RelativeDocumentMoniker": "RedisExample.Cache\\RedisIndexer.cs",
+              "ToolTip": "C:\\Users\\BUKET\\source\\repos\\RedisExample\\RedisExample.Cache\\RedisIndexer.cs",
+              "RelativeToolTip": "RedisExample.Cache\\RedisIndexer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T17:56:28.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RedisConnector.cs",
+              "DocumentMoniker": "C:\\Users\\BUKET\\source\\repos\\RedisExample\\RedisExample.Cache\\RedisConnector.cs",
+              "RelativeDocumentMoniker": "RedisExample.Cache\\RedisConnector.cs",
+              "ToolTip": "C:\\Users\\BUKET\\source\\repos\\RedisExample\\RedisExample.Cache\\RedisConnector.cs",
+              "RelativeToolTip": "RedisExample.Cache\\RedisConnector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T15:02:10.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BUKET\\source\\repos\\RedisExample\\RedisExample\\Program.cs",
+              "RelativeDocumentMoniker": "RedisExample\\Program.cs",
+              "ToolTip": "C:\\Users\\BUKET\\source\\repos\\RedisExample\\RedisExample\\Program.cs",
+              "RelativeToolTip": "RedisExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T16:51:42.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\BUKET\\source\\repos\\RedisExample\\RedisExample\\ProductDto.cs",
+              "RelativeDocumentMoniker": "RedisExample\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\BUKET\\source\\repos\\RedisExample\\RedisExample\\ProductDto.cs",
+              "RelativeToolTip": "RedisExample\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T16:35:14.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
